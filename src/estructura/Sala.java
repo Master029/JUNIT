@@ -1,4 +1,4 @@
-package angelSubtilJimenez;
+package estructura;
 
 import java.util.Objects;
 

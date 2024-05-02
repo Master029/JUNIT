@@ -1,4 +1,4 @@
-package angelSubtilJimenez;
+package estructura;
 
 public class Entrada {
 	private final int numSala;
